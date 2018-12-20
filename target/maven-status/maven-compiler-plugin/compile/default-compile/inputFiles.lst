@@ -1,0 +1,15 @@
+D:\Proyectos\CASH-MANAGEMENT\DOCUMENTOS_CASH\Fuentes\Offline\PostillionClient\src\main\java\com\bb\enums\TipoProceso.java
+D:\Proyectos\CASH-MANAGEMENT\DOCUMENTOS_CASH\Fuentes\Offline\PostillionClient\src\main\java\com\bb\cliente\RespuestaConsulta.java
+D:\Proyectos\CASH-MANAGEMENT\DOCUMENTOS_CASH\Fuentes\Offline\PostillionClient\src\main\java\com\bb\enums\TipoCuenta.java
+D:\Proyectos\CASH-MANAGEMENT\DOCUMENTOS_CASH\Fuentes\Offline\PostillionClient\src\main\java\com\bb\cliente\IClientePostillion.java
+D:\Proyectos\CASH-MANAGEMENT\DOCUMENTOS_CASH\Fuentes\Offline\PostillionClient\src\main\java\com\bb\enums\CodigoTransaccion.java
+D:\Proyectos\CASH-MANAGEMENT\DOCUMENTOS_CASH\Fuentes\Offline\PostillionClient\src\main\java\com\bb\cliente\ITcpClientAsyn.java
+D:\Proyectos\CASH-MANAGEMENT\DOCUMENTOS_CASH\Fuentes\Offline\PostillionClient\src\main\java\com\bb\cliente\dto\TramaComercios.java
+D:\Proyectos\CASH-MANAGEMENT\DOCUMENTOS_CASH\Fuentes\Offline\PostillionClient\src\main\java\com\bb\cliente\TcpClientAsynComercios.java
+D:\Proyectos\CASH-MANAGEMENT\DOCUMENTOS_CASH\Fuentes\Offline\PostillionClient\src\main\java\com\bb\codecs\RequestPostillionEncoder.java
+D:\Proyectos\CASH-MANAGEMENT\DOCUMENTOS_CASH\Fuentes\Offline\PostillionClient\src\main\java\com\bb\codecs\ResponsePostillionDecoder.java
+D:\Proyectos\CASH-MANAGEMENT\DOCUMENTOS_CASH\Fuentes\Offline\PostillionClient\src\main\java\com\bb\cliente\ResponseTask.java
+D:\Proyectos\CASH-MANAGEMENT\DOCUMENTOS_CASH\Fuentes\Offline\PostillionClient\src\main\java\com\bb\enums\TipoTransaccion.java
+D:\Proyectos\CASH-MANAGEMENT\DOCUMENTOS_CASH\Fuentes\Offline\PostillionClient\src\main\java\com\bb\enums\TipoOperacion.java
+D:\Proyectos\CASH-MANAGEMENT\DOCUMENTOS_CASH\Fuentes\Offline\PostillionClient\src\main\java\com\bb\cliente\ClientePostillion.java
+D:\Proyectos\CASH-MANAGEMENT\DOCUMENTOS_CASH\Fuentes\Offline\PostillionClient\src\main\java\com\bb\codecs\PostillionCodecFactory.java

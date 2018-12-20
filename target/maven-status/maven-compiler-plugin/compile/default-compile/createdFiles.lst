@@ -1,0 +1,16 @@
+com\bb\codecs\RequestPostillionEncoder.class
+com\bb\codecs\PostillionCodecFactory.class
+com\bb\cliente\IClientePostillion.class
+com\bb\enums\TipoProceso.class
+com\bb\cliente\ClientePostillion.class
+com\bb\enums\CodigoTransaccion.class
+com\bb\cliente\dto\TramaComercios.class
+com\bb\cliente\ITcpClientAsyn.class
+com\bb\cliente\TcpClientAsynComercios.class
+com\bb\enums\TipoCuenta.class
+com\bb\cliente\RespuestaConsulta.class
+com\bb\enums\TipoTransaccion.class
+com\bb\codecs\ResponsePostillionDecoder.class
+com\bb\cliente\ClientePostillion$1.class
+com\bb\cliente\ResponseTask.class
+com\bb\enums\TipoOperacion.class
